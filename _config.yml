@@ -1,4 +1,3 @@
-layout_spectrum: 0.8795856817159802
 typography_spectrum: 0.9224828230217099
 color:
   brandStrength: 0.3777488374616951
@@ -11,4 +10,13 @@ color:
     - '#94090D'
     - '#D40D12'
     - '#FF1D23'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/358e06b4-980f-41dc-ba2f-04e2b3562849.jpg
+layout_spectrum: 0.8795856817159802
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2652baf3-edec-473b-b0ed-2e674cbb5ccd.png
 name: innovative nostalgia
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdc8b1ef-93f3-4705-a0d5-33365280c8ab.png
+title: memories of the past redefined
