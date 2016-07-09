@@ -1,14 +1,14 @@
-layout_spectrum: 0.3857393891084939
-typography_spectrum: 0.6910786810331047
+layout_spectrum: 0.8795856817159802
+typography_spectrum: 0.9224828230217099
 color:
-  brandStrength: 0.10824954020790756
-  lightness: 0.8628064559306949
-  saturation: 0.18700993340462446
-  rhythmicContrast: 0.7835535146296024
+  brandStrength: 0.3777488374616951
+  lightness: 0.02467236900702119
+  saturation: 0.6913328212685883
+  rhythmicContrast: 0.6858881383668631
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
 name: innovative nostalgia
