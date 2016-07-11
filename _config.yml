@@ -1,19 +1,19 @@
-typography_spectrum: 0.9224828230217099
+typography_spectrum: 0.10291428258642554
 color:
-  brandStrength: 0.3777488374616951
-  lightness: 0.02467236900702119
-  saturation: 0.6913328212685883
-  rhythmicContrast: 0.6858881383668631
+  brandStrength: 0.38752256566658616
+  lightness: 0.8734014697838575
+  saturation: 0.4694330054335296
+  rhythmicContrast: 0.907897358527407
   brandColors:
-    - '#450003'
-    - '#5C0002'
-    - '#94090D'
-    - '#D40D12'
-    - '#FF1D23'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/358e06b4-980f-41dc-ba2f-04e2b3562849.jpg
-layout_spectrum: 0.8795856817159802
+layout_spectrum: 0.019753241911530495
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2652baf3-edec-473b-b0ed-2e674cbb5ccd.png
 name: innovative nostalgia
